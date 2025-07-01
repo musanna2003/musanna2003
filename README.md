@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUSANNA</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/CX4qeENSjFiKI/giphy.gif" height="150" alt="Coding gif"/>
-</p>
+
 
 ---
 
